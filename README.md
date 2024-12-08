@@ -179,7 +179,8 @@ Execute the program using runserver command.
 </html>
 ```
 # OUTPUT
-![alt text](<Screenshot 2024-12-08 101017-1.png>)
+![image](https://github.com/user-attachments/assets/e929cac0-cdf2-4c1b-9225-315d726c09ae)
+
 
 ![alt text](<Screenshot 2024-12-08 101033-1.png>)
 
